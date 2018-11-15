@@ -14,6 +14,6 @@ The tools used for this project were:
     - matplotlib 
     - NumPy
     
-## Author & cxknowledgments 
+## Author & Acknowledgments 
 Aaron Ware created the project
 Jonathan M. helped to give feedback and suggestions on improving the project
